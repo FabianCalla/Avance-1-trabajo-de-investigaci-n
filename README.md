@@ -16,7 +16,9 @@ Responsable: Fabián Calla
 -	Promedio de horas semanales por trabajador ocupado: la meritocracia, a través del esfuerzo personal, es un valor defendido en las dinámicas del libre mercado. Sin embargo, esta creencia podría verse mermada por factores que escapan al esfuerzo de una persona. De esta forma, cabe la posibilidad de que el mayor número de horas de trabajo no se traduzca en un aumento del salario, desmintiendo aquella creencia.
 -	Explotación laboral: la Organización Internacional del Trabajo ha establecido mecanismos legales vinculantes a los países respecto a la jornada laboral. De esta forma, exceder a las 48 horas semanales de jornada laboral, puede estar afectando los salarios pues se le exige más trabajo al mismo número de personas con el mismo salario, incrementando la productividad sin incrementar la cantidad de gente empleada. 
 -	Desempleo: el desempleo genera una amplia base de trabajadores dispuestos a aceptar trabajos precarios y con reclamos mínimos. De esta forma, los trabajadores empleados son fácilmente reemplazables por otros que estén en una situación económica más complicada. La mayor cantidad de desempleados debe reducir los salarios.  
+
 Responsable:Mirka Prieto 
+
 -	Variable: Porcentaje de brecha pobreza 1.90$ por día  
 -	Base de datos: Banco Mundial 2000 - 2021 (BM-BrechaPobreza)
 -	Justificación: Se ha considerado a la variable Brecha pobreza como variable independiente y se busca averiguar si el que en un país haya un alto indice de brecha pobreza impacta en el salario promedio, es decir si a mayor brecha pobreza hay un menor salario promedio o viceversa. 
@@ -28,6 +30,7 @@ Link del Brecha pobreza: https://docs.google.com/spreadsheets/d/e/2PACX-1vTVAcZt
 -	Fuente: Organización Internacional del Trabajo, base de datos sobre estadísticas de la OIT ( ILOSTAT ).
 Link de la Base de Datos del Banco Mundial: https://datos.bancomundial.org/indicator/SL.UEM.TOTL.ZS 
 Link de csv (descargar): https://docs.google.com/spreadsheets/d/e/2PACX-1vQz90rzxE6XNE9dRsNzjquuSrG7jgmaYmN0ECekYiCIjio2shYlFScierOSRNMIBg/pub?gid=1527832790&single=true&output=csv 
+
 -	Variable: Porcentaje de alfabetización total personas de 15 años a más 
 -	Base de datos: Banco Mundial 2000 - 2021 (BM - Alfabetizacion)
 -	Justificación: Se ha decidido utilizar esta variable ya que las mujeres son quienes, desde la niñez,  empiezan a realizar labores domésticas en el hogar en comparación a los varones, esto impacta en las posibilidades de acceder y continuar con su educación; por ello, con esta variable se quiere saber si la alfabetización de las personas de 15 años a más impacta en el promedio salarial de los países, queremos saber si mayor alfabetización, hay un mayor salario promedio y viceversa. 
@@ -35,7 +38,7 @@ Link de csv (descargar): https://docs.google.com/spreadsheets/d/e/2PACX-1vQz90rz
 Link de la Base de datos: https://datos.bancomundial.org/indicator/SE.ADT.LITR.ZS?view=map 
 Link de csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ9m9VdBXvIDmAVLYhV2YsZiWu6yiZaq8168mdexF_lXqdi1sLptA6fsoYkLv0ig/pub?gid=648940652&single=true&output=csv
 
-LAE:
+Laetitia:
 
 -	Porcentaje de gente en trabajos informales / producción informal→ 
 Se ha decidido utilizar esta variable ya que deseamos saber si el trabajo informal afecta el promedio salarial de los países. Deseamos saber si es que al incrementar el porcentaje de trabajadores informales, el promedio salarial disminuye. Es por ello que realizamos la comparación con todos los países. De esta manera, podremos comparar entre los países el efecto o no efecto de esta variable. 
