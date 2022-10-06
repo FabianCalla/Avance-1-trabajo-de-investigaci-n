@@ -24,12 +24,13 @@ Responsable:Mirka Prieto
 -	Justificación: Se ha considerado a la variable Brecha pobreza como variable independiente y se busca averiguar si el que en un país haya un alto indice de brecha pobreza impacta en el salario promedio, es decir si a mayor brecha pobreza hay un menor salario promedio o viceversa. 
 Link del Brecha pobreza: https://docs.google.com/spreadsheets/d/e/2PACX-1vTVAcZtQtKqm-jX0v_g02X3Duxwjz04tx5TSNDT5r-mcjgo-crKQL9fpYkcN9CdKA/pub?gid=529196757&single=true&output=csv
 
--	Variable: Porcentaje de personas desempleadas pertenecientes a la población activa 
--	Base de datos: Banco Mundial 2000 - 2021 (BM-Desempleo)
--	Justificación: La crisis producida por el actual contexto de COVID-19 ha ocasionado que en países como Perú aumente la tasa de desempleo, según el informe de la OIT “ los independientes y quienes laboran en empresas de menos de diez trabajadores han sido los más perjudicados” (2021, p. 11) en nuestro país, por lo que con la variable Personas desempleadas pertenecientes a la población activa, se desea averiguar si el porcentaje de personas desempleadas impacta en el salario promedio de los países (Variable Dependiente), si a mayor tasa de desempleo de personas pertenecientes a la población activa, hay menores salario y viceversa. 
--	Fuente: Organización Internacional del Trabajo, base de datos sobre estadísticas de la OIT ( ILOSTAT ).
-Link de la Base de Datos del Banco Mundial: https://datos.bancomundial.org/indicator/SL.UEM.TOTL.ZS 
-Link de csv (descargar): https://docs.google.com/spreadsheets/d/e/2PACX-1vQz90rzxE6XNE9dRsNzjquuSrG7jgmaYmN0ECekYiCIjio2shYlFScierOSRNMIBg/pub?gid=1527832790&single=true&output=csv 
+- Variable:  Ayuda Oficial al Desarrollo (ODA) neta recibida (% del INB)
+- Base de datos: Banco Mundial 2000 - 2021
+- Justificación: Perú es una país de renta media que recibe transferencias monetarias, ya sea a través de préstamos u otros, de parte de la Ayuda Oficial al Desarrollo para enfrentar problemas como la desigualdad y pobreza, por lo que, con esta variable se desea saber si la ODA tiene impacto en el incremento de salarios ya que la ODA busca promover el desarrollo social y económico, creando oportunidades para las y los peruanos de mejorar sus condiciones de vida. 
+- Fuente: Banco Mundial - base de datos 
+- Link de Ayuda Oficial al Desarrollo (ODA) neta recibida (% del INB):
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSoiQw30_QCIxnEbNFdsZg1NfmgV0dNRU-pWsKI54BZZJBms0R2I8scMBqI3GYOCQ/pubhtml  
+
 
 -	Variable: Porcentaje de alfabetización total personas de 15 años a más 
 -	Base de datos: Banco Mundial 2000 - 2021 (BM - Alfabetizacion)
