@@ -41,27 +41,13 @@ Link de csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ9m9VdBXvIDmAVLYh
 
 Laetitia:
 
--	Porcentaje de gente en trabajos informales / producción informal→ 
-Se ha decidido utilizar esta variable ya que deseamos saber si el trabajo informal afecta el promedio salarial de los países. Deseamos saber si es que al incrementar el porcentaje de trabajadores informales, el promedio salarial disminuye. Es por ello que realizamos la comparación con todos los países. De esta manera, podremos comparar entre los países el efecto o no efecto de esta variable. 
+Costo de vida: Se ha escogido esta variable explicativa porque se ha hallado que la mayoría de salarios sube de acuerdo a la subida de su IPC. https://www.oasfcu.org/2019/09/03/el-coste-de-vida/?lang=es
 
-link: 
-https://www.worldbank.org/en/research/brief/informal-economy-database
+Inflación: Se ha escogido esta variable explicativa porque se ha observado que según estudios, los países con mayor inflación muestran un menor promedio salarial. Según la ILo, la inflación afecta el salario mínimo. Si bien la información muestra que la inflación afecta al salario minino, se ha encontrado bibliografía que demuestra que si aumenta el salario minino, el promedio salarial también. De esta manera, se observa que la inflación por país afecta el promedio salarial.
 
-excel:
-https://docs.google.com/spreadsheets/d/1wUy26fRMwjU9zFYjHGgT5Eb1TP11cbEuz5OVY_xv6L0/edit?usp=sharing
+Trabajo mujer Un trabajo de investigación realizado por la OCDE ha concluido que la fuerza laboral femenina influye de manera positiva en el incremento de la economía. Al incrementar la economía, el promedio salarial aumenta. De esta manera, al aumentar la participación de las mujeres en el mundo laboral, el promedio salarial aumentaría.
 
--	Número de TLCs (alguna variable que indique apertura de mercados) →
-En este caso, se estudiará el número de TLCs por país y veremos si afecta o no a la variable dependiente (promedio de salario por país). En ese sentido, veremos si a mayor número de TLC, el promedio salarial incrementa o disminuye o no afecta a la variable dependiente. 
-
-Base de datos: 
-http://rtais.wto.org/UI/publicPreDefRepByCountry.aspx
-
-EXCEL: https://docs.google.com/spreadsheets/d/177oFxpRRRqN08yCXpqTWN7oqhLMTqQ7C_6cOOkYCR2I/edit#gid=0
--	Deuda externa:
-En este caso, se ha elegido a deuda externa como variable independiente ya que 
-buscamos explicar si los países con una gran deuda externa cuentan con un mayor o menor promedio salarial. Deseamos observar si a mayor deuda externa, mayor promedio salarial por país. Por ejemplo, EEUU es el país que posee la deuda externa más alta. Esto se podría deber a que es un país con mucho poder económico y necesita mayor inversión. En ese sentido, compararemos con el resto de países y determinaremos su efecto. 
-
-https://en.wikipedia.org/wiki/List_of_countries_by_external_debt
+https://www.unwomen.org/es/what-we-do/economic-empowerment/facts-and-figures
 
 
 
